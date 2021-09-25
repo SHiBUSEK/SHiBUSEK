@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WhiteFrog1337
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming to javascript
