@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WhiteFrog1337
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming in javascript
+- 🌱 I’m currently learning programming in HTML and Javascript
