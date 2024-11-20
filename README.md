@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @WhiteFrog1337
+- 👋 Hi, I’m @SHiBUSEK
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming in HTML, CSS and Javascript
